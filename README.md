@@ -1,3 +1,10 @@
-## Somewhere to keep things
+# Somewhere to keep things
 
-I am starting to depracate my old blog and will migrate things into here as I can store them in markdown and not have to deal with Wordpress anymore.
+## How we got here
+Welcome to my repository focused on networking and cloud infrastructure, with some other stuff that I wanted to keep. After migrating from an old Wordpress blog platform to GitHub, I've preserved some of my most useful technical articles while continuing to share new insights about networking, cloud architecture, and infrastructure automation.
+
+## Heritage Articles
+
+
+[Dead DHCP](dead-dhcp.md)
+[Python Route Summarisation](python-route-summarisation.md)
