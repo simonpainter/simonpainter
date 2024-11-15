@@ -5,6 +5,7 @@ Welcome to my repository focused on networking and cloud infrastructure, with so
 
 ## Heritage Articles
 
+* [Dead DHCP](heritage/dead-dhcp.md)
+* [Python Route Summarisation](heritage/python-route-summarisation.md)
 
-[Dead DHCP](dead-dhcp.md)
-[Python Route Summarisation](python-route-summarisation.md)
+
