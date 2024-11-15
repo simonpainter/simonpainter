@@ -18,6 +18,8 @@ There are some more over at [medium.com](https://medium.simonpainter.com)
 * [Fixing the network blame game](medium/network-blame-game.md)
 * [Private Link Services](medium/private-link-services.md)
 * [SDWAN as a step toward ZTNA](medium/sdwan-strategic-step-to-ztna.md)
+* [FQDN Filtering](medium/fqdn-deep-dive.md)
+
 
 ## Repositories
 * [Using pcaps to measure ttfb](https://github.com/simonpainter/capture_latency)
