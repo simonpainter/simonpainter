@@ -28,8 +28,8 @@ I'm a cloud network architect with roots in traditional enterprise networking, f
 
 ## 📊 GitHub Stats
 
-![Simon's GitHub stats](https://github-readme-stats.vercel.app/api?username=simonpainter&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=simonpainter&layout=compact&theme=github_dark&hide_border=true)
+![GitHub streak](https://streak-stats.demolab.com/?user=simonpainter&theme=github-dark-blue&hide_border=true)
+![Profile summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=simonpainter&theme=github_dark)
 
 ---
 
@@ -54,10 +54,12 @@ Over on [simonpainter.com](https://www.simonpainter.com) I write deep-dive techn
 
 ## 🚀 Featured Projects
 
-[![pyflare](https://github-readme-stats.vercel.app/api/pin/?username=simonpainter&repo=pyflare&theme=github_dark&hide_border=true)](https://github.com/simonpainter/pyflare)
-[![netbox-mcp](https://github-readme-stats.vercel.app/api/pin/?username=simonpainter&repo=netbox-mcp&theme=github_dark&hide_border=true)](https://github.com/simonpainter/netbox-mcp)
-[![MoodBadger](https://github-readme-stats.vercel.app/api/pin/?username=simonpainter&repo=MoodBadger&theme=github_dark&hide_border=true)](https://github.com/simonpainter/MoodBadger)
-[![bgp-lg-mcp](https://github-readme-stats.vercel.app/api/pin/?username=simonpainter&repo=bgp-lg-mcp&theme=github_dark&hide_border=true)](https://github.com/simonpainter/bgp-lg-mcp)
+| Repo | Stars | Forks | Description |
+|---|---|---|---|
+| [pyflare](https://github.com/simonpainter/pyflare) | ![stars](https://img.shields.io/github/stars/simonpainter/pyflare?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/pyflare?style=flat-square) | Python script that keeps Cloudflare DNS records updated with your current public IP |
+| [netbox-mcp](https://github.com/simonpainter/netbox-mcp) | ![stars](https://img.shields.io/github/stars/simonpainter/netbox-mcp?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/netbox-mcp?style=flat-square) | MCP server for NetBox, letting AI assistants query and interact with your network source of truth |
+| [MoodBadger](https://github.com/simonpainter/MoodBadger) | ![stars](https://img.shields.io/github/stars/simonpainter/MoodBadger?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/MoodBadger?style=flat-square) | Assistive tech for neurodivergent children — a Pimoroni Badger2040 e-ink display for expressing emotional state |
+| [bgp-lg-mcp](https://github.com/simonpainter/bgp-lg-mcp) | ![stars](https://img.shields.io/github/stars/simonpainter/bgp-lg-mcp?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/bgp-lg-mcp?style=flat-square) | BGP route server MCP proxy, covered in depth [on the blog](https://www.simonpainter.com/bgp-lg-mcp) |
 
 ---
 
