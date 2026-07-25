@@ -56,10 +56,11 @@ Over on [simonpainter.com](https://www.simonpainter.com) I write deep-dive techn
 
 | Repo | Stars | Forks | Description |
 |---|---|---|---|
-| [pyflare](https://github.com/simonpainter/pyflare) | ![stars](https://img.shields.io/github/stars/simonpainter/pyflare?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/pyflare?style=flat-square) | Python script that keeps Cloudflare DNS records updated with your current public IP |
-| [netbox-mcp](https://github.com/simonpainter/netbox-mcp) | ![stars](https://img.shields.io/github/stars/simonpainter/netbox-mcp?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/netbox-mcp?style=flat-square) | MCP server for NetBox, letting AI assistants query and interact with your network source of truth |
-| [MoodBadger](https://github.com/simonpainter/MoodBadger) | ![stars](https://img.shields.io/github/stars/simonpainter/MoodBadger?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/MoodBadger?style=flat-square) | Assistive tech for neurodivergent children — a Pimoroni Badger2040 e-ink display for expressing emotional state |
-| [bgp-lg-mcp](https://github.com/simonpainter/bgp-lg-mcp) | ![stars](https://img.shields.io/github/stars/simonpainter/bgp-lg-mcp?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/bgp-lg-mcp?style=flat-square) | BGP route server MCP proxy, covered in depth [on the blog](https://www.simonpainter.com/bgp-lg-mcp) |
+| [wtf](https://github.com/simonpainter/wtf) | ![stars](https://img.shields.io/github/stars/simonpainter/wtf?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/wtf?style=flat-square) | Shell helper that explains failed commands using captured stderr and your installed AI coding CLI |
+| [uping](https://github.com/simonpainter/uping) | ![stars](https://img.shields.io/github/stars/simonpainter/uping?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/uping?style=flat-square) | Microsecond-precision ICMP ping for macOS and Linux |
+| [txtft](https://github.com/simonpainter/txtft) | ![stars](https://img.shields.io/github/stars/simonpainter/txtft?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/txtft?style=flat-square) | File system and download tool using DNS TXT records (proof of concept) |
+| [network-tools](https://github.com/simonpainter/network-tools) | ![stars](https://img.shields.io/github/stars/simonpainter/network-tools?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/network-tools?style=flat-square) | Collection of Bash network diagnostic utilities, including DNS query ping and latency reporting |
+| [fighting-fantasy](https://github.com/simonpainter/fighting-fantasy) | ![stars](https://img.shields.io/github/stars/simonpainter/fighting-fantasy?style=flat-square) | ![forks](https://img.shields.io/github/forks/simonpainter/fighting-fantasy?style=flat-square) | Python terminal engine for classic Fighting Fantasy style gamebook adventures |
 
 ---
 
